@@ -2,7 +2,7 @@
 Hi there! Welcome to my GitHub profile! I am Shruti Mishra an aspiring Data Analyst, I am passionate about transforming data into actionable insights that drive strategic decision-making. I have developed a strong foundation in data analysis techniques using tools such as Excel, Power BI, SQL, and Python.
 
 ## About Me
-- **Data Aspirant:**
+- **Data Aspirant**
 - Currently pursuing B.Tech in Computer Science Engineering with a specialization in Data Science.
 
 ## Tools and Languages
